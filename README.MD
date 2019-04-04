@@ -1,3 +1,13 @@
+
+
+## Fourth Project in the React100 * Module @ San Diego Code School
+
+#Author - Michel Roberts JR.
+
+#Modified by Travis Ripley * Started Thursday April 4th, 2019 09:45
+
+I will be logging my updates as a work through this project.
+
 # San Diego Top Spots
 
 ## Introduction
@@ -250,4 +260,14 @@ After running that command, you should see the following output:
 
 And that's it! [Submit your project](https://goo.gl/forms/wx8DLSus7s88lk043) and you can move onto the next assignment.
 
-##
+
+## Now
+
+#Site deployed to Now at the following URL
+
+https://change-calculator-e084gczog.now.sh/
+
+#Thank you for taking the time to look at my projects,
+
+#Also please follow my progress on youtube: 
+https://www.youtube.com/channel/UCXv4p-lDYeWXPlnoRFYCSUg
