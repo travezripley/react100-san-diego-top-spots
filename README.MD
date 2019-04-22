@@ -1,11 +1,11 @@
 
 
 ## Fourth Project in the React100 * Module @ San Diego Code School
+## Filmed in front of a live studio audience.
+# Author - Michel Roberts JR.
 
-#Author - Michel Roberts JR.
-
-#Modified by Travis Ripley * Started Thursday April 4th, 2019 09:45
-
+# Modified by Travis Ripley * Started Thursday April 4th, 2019 09:45
+## Daytime Television - Fantasy Delux
 I will be logging my updates as a work through this project.
 
 # San Diego Top Spots
